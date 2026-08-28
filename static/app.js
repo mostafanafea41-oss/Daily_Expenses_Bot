@@ -31,7 +31,7 @@ var CATEGORIES = {
 var DEFAULTS = {
   salary: 20000,
   payday: 25,
-  csvUrl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT17dHA7p9urAJb30TPyh1YX5PYpq5FTJ9RNU8W9Gd7YMzgxhmpCEJW4eN9KBzdJNHztxLn-7blwp0c/pub?gid=0&single=true&output=csv"
+  csvUrl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdzW7MfR2brytkTH_x2wx9_5vSxIlktNng6XBIjpfNwEKip1C450EV9yWDLu_ui3kzDtk6sM0p1F7/pub?output=csv"
 };
 
 var LS_KEY_DEFAULTS = "de_dashboard_defaults";     // { salary, payday }

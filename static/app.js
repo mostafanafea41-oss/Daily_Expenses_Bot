@@ -29,8 +29,8 @@ var CATEGORIES = {
 };
 
 var DEFAULTS = {
-  salary: 20000,
-  payday: 25,
+  salary: 10000,
+  payday: 1,
   csvUrl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdzW7MfR2brytkTH_x2wx9_5vSxIlktNng6XBIjpfNwEKip1C450EV9yWDLu_ui3kzDtk6sM0p1F7/pub?output=csv"
 };
 
